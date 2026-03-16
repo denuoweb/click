@@ -1,4 +1,4 @@
-Changes
-=======
+# Changes
 
-.. include:: ../CHANGES.rst
+```{include} ../CHANGES.md
+```
